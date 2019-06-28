@@ -1,42 +1,5 @@
 {
-  "_from": "gitbook-plugin-theme-default",
-  "_id": "gitbook-plugin-theme-default@1.0.7",
-  "_inBundle": false,
-  "_integrity": "sha512-vY+8Prz58H6iu6c7KHyOISxapKnwU8P1TWNqOzESFAB40ny9D/R7GpNL2IluicrsDvtI6VfpQeCYQbBniamulw==",
-  "_location": "/gitbook-plugin-theme-default",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "gitbook-plugin-theme-default",
-    "name": "gitbook-plugin-theme-default",
-    "escapedName": "gitbook-plugin-theme-default",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/gitbook-plugin-theme-default/-/gitbook-plugin-theme-default-1.0.7.tgz",
-  "_shasum": "51f71fbca74a261054e9e9d141c42167afefce88",
-  "_spec": "gitbook-plugin-theme-default",
-  "_where": "/Users/yonekurayuuki/github/ryobi",
-  "author": {
-    "name": "FriendCode Inc.",
-    "email": "contact@gitbook.com"
-  },
-  "bugs": {
-    "url": "https://github.com/GitbookIO/theme-default/issues"
-  },
   "bundleDependencies": false,
-  "contributors": [
-    {
-      "name": "Samy Pessé",
-      "email": "samy@gitbook.com"
-    }
-  ],
   "dependencies": {},
   "deprecated": false,
   "description": "Default theme for GitBook",
@@ -98,7 +61,7 @@
   "homepage": "https://github.com/GitbookIO/theme-default#readme",
   "license": "Apache-2.0",
   "main": "./index.js",
-  "name": "gitbook-plugin-theme-default",
+  "name": "gitbook-plugin-theme-default-extended",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GitbookIO/theme-default.git"
@@ -106,5 +69,5 @@
   "scripts": {
     "prepublish": "./src/build.sh"
   },
-  "version": "1.0.7"
+  "version": "1.0.0"
 }
